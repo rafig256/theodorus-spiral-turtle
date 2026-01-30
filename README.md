@@ -25,6 +25,7 @@ This is a **simple and educational Python program** to draw the **Theodorus Spir
 4. Enter the number of steps when prompted
 
 ---
+![screenshot](images/screen-shot.jpg)
 
 ## فارسی
 
