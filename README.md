@@ -25,6 +25,7 @@ This is a **simple and educational Python program** to draw the **Theodorus Spir
 4. Enter the number of steps when prompted
 
 ---
+Explanation: The graphics of this program are not very good. If you need good graphics, you can use Matplotlib or even Seaborn. This program is designed solely for students with minimal use of external libraries.
 ![screenshot](images/screen-shot.jpg)
 
 ## فارسی
@@ -52,5 +53,5 @@ This is a **simple and educational Python program** to draw the **Theodorus Spir
 4. وارد کردن تعداد مراحل مورد نظر هنگام درخواست
 
 ---
-
+توضیح: گرافیک این برنامه زیاد مناسب نیست. اگر نیاز به گرافیک مناسبی دارید از کتابخانه ی Matplotlib یا حتی Seaborn استفاده نمایید. این برنامه صرفا برای دانش آموزان با کمترین استفاده از کتابخانه های جانبی طراحی شده است.
 
