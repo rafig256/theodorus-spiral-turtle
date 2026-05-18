@@ -6,7 +6,7 @@ This is a **simple and educational Python program** to draw the **Theodorus Spir
 
 ### Who is it for?
 
-- Middle school students (grades 6-9)
+- Middle school students (grades 6-10)
 - High school students
 - Anyone who wants a step-by-step understanding of the Theodorus Spiral
 
@@ -34,7 +34,7 @@ Explanation: The graphics of this program are not very good. If you need good gr
 
 ### مناسب برای
 
-- دانش‌آموزان راهنمایی (سال‌های 6 تا 9)
+- دانش‌آموزان راهنمایی (سال‌های 6 تا 10)
 - دانش‌آموزان دبیرستان
 - هر کسی که می‌خواهد مارپیچ تئودوروس را مرحله به مرحله درک کند
 
